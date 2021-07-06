@@ -1,7 +1,6 @@
-# Anti-996 badge
+# Anti-996
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
-# Anti-996
 版权所有（c）<年份><版权持有人>
 
 反996许可证版本1.0
