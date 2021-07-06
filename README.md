@@ -1,10 +1,5 @@
 # Anti-996 badge
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-# hello-world
-
-# li ho se kai
-
-通过#创建大标题
 
 # Anti-996
 版权所有（c）<年份><版权持有人>
